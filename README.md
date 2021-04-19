@@ -6,4 +6,4 @@ Language: Python
 Packages: requests, PyQt
 
 # Demo
-[Demo](Demo/demo.png)
+![Demo](./Demo/demo.png)
